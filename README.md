@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my homepage 👋
 
-<!--
-**chrislaughlin/chrislaughlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/boca_90px1.gif"/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/campana_60px1.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/jebusDance.gif"/>
+
+<img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/reloj_60px1.gif"/>
+
+<img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/tostadora_70px1.gif"/>
+
+</div>
