@@ -12,4 +12,3 @@
 <img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/tostadora_70px1.gif"/>
 
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chrislaughlin/chrislaughlin)
