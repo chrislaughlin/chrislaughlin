@@ -1,4 +1,4 @@
-### Welcome to my homepage 👋
+### Welcome to my homepage 👋 (_Am I doing this right?_)
 
 <div>
   <img src="https://raw.githubusercontent.com/chrislaughlin/chrislaughlin/master/boca_90px1.gif"/>
